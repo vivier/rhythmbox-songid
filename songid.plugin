@@ -1,0 +1,12 @@
+[Plugin]
+Loader=python3
+Module=songid
+IAge=2
+Depends=rb
+Name=Song Identifier
+Description=A plugin to identify song using AcoustID service
+Authors=Laurent Vivier <laurent@vivier.eu>
+Copyright=Copyright © 2014 Laurent Vivier
+
+[RB]
+InitiallyEnabled=true
